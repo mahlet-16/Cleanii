@@ -1,4 +1,5 @@
 Cleaning Service Management System
+
 This is a class project built for a local cleaning service company. It is a web-based application designed to manage service bookings,
 client information, and staff schedules efficiently.
 
